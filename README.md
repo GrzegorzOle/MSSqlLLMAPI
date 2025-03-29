@@ -1,4 +1,4 @@
-# Using SQL Server with Ollama via HTTP and SQL Scripts
+# Using MSSQL Server with Ollama via HTTP and SQL Scripts
 
 This guide demonstrates how to integrate SQL Server (MSSQL) with the Ollama LLM API using T-SQL and HTTP requests. It includes configuration steps and usage patterns to make API calls directly from within SQL Server using OLE Automation.
 
